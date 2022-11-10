@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-06-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/homework-06-phonebook/static/js/main.b9def5a9.js",
+    "index.html": "/homework-06-phonebook/index.html",
+    "main.7acaea2f.css.map": "/homework-06-phonebook/static/css/main.7acaea2f.css.map",
+    "main.b9def5a9.js.map": "/homework-06-phonebook/static/js/main.b9def5a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.b9def5a9.js"
+  ]
+}
